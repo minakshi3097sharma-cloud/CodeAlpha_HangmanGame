@@ -1,4 +1,4 @@
-# 🎮 CodeAlpha Hangman Game
+# 🎮 Hangman Game
 
 A simple and interactive **text-based Hangman Game** built using **Python**. The player must guess the hidden word one letter at a time before running out of six incorrect attempts. This project demonstrates the use of Python fundamentals such as loops, conditional statements, functions, lists, strings, and the `random` module.
 
